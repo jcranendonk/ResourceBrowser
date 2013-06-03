@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceBrowser", "ResourceBrowser\ResourceBrowser.csproj", "{9F4772F6-2C40-4F47-B07A-B3657D4D2EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release 32-bit|Any CPU = Release 32-bit|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F4772F6-2C40-4F47-B07A-B3657D4D2EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4772F6-2C40-4F47-B07A-B3657D4D2EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4772F6-2C40-4F47-B07A-B3657D4D2EDB}.Release 32-bit|Any CPU.ActiveCfg = Release 32-bit|Any CPU
+		{9F4772F6-2C40-4F47-B07A-B3657D4D2EDB}.Release 32-bit|Any CPU.Build.0 = Release 32-bit|Any CPU
+		{9F4772F6-2C40-4F47-B07A-B3657D4D2EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4772F6-2C40-4F47-B07A-B3657D4D2EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
